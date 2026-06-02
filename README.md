@@ -5,7 +5,7 @@
 
 
 <div align="center">
-  <img src="https://tenor.com/bTxiw.gif" width="600px" alt="Animated Banner"/>
+  <img src="https://media1.tenor.com/m/r77Sc4J25JMAAAAC/banner.gif" width="600px" alt="Animated Banner"/>
 </div>
 
 <h3 align="center">Information Systems Student | Full-Stack Developer | Graphic Designer</h3>
