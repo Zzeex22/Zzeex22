@@ -32,7 +32,11 @@
 
 ### 📊 My GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zzeex22&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zzeex22&layout=compact&theme=tokyonight" alt="Top Languages" />
+  
+  <br><br>
+  <img src="https://streak-stats.demolab.com?user=Zzeex22&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
 <br>
