@@ -28,18 +28,7 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </div>
 
-<br>
 
-### 📊 My GitHub Stats
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zzeex22&layout=compact&theme=tokyonight" alt="Top Languages" />
-  
-  <br><br>
-  <img src="https://streak-stats.demolab.com?user=Zzeex22&theme=tokyonight" alt="GitHub Streak" />
-</div>
-
-<br>
 
 ### 🤝 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hidayat-qodri-81136a375/)
