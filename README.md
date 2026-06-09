@@ -1,6 +1,6 @@
 
 <h1 align="center">
-  <img src="https://media1.tenor.com/m/j2wYO4oiGbIAAAAd/pato.gif" width="35px"/> Hi there, I'm Hidayat!
+  <img src="https://media1.tenor.com/m/j2wYO4oiGbIAAAAd/pato.gif" width="35px"/> Hi there, I'm Qodri!
 </h1>
 
 
